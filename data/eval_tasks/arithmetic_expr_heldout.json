@@ -1,0 +1,94 @@
+[
+  {
+    "difficulty": 0.55,
+    "env_id": "arithmetic_expr",
+    "goal_spec": {
+      "must_use_all_numbers": false,
+      "target": 70
+    },
+    "initial_state": {
+      "numbers": [
+        4,
+        9,
+        6,
+        8,
+        1
+      ]
+    },
+    "max_steps": 1,
+    "metadata": {
+      "generator": "deterministic_v1"
+    },
+    "seed": 101,
+    "task_id": "arith-101"
+  },
+  {
+    "difficulty": 0.55,
+    "env_id": "arithmetic_expr",
+    "goal_spec": {
+      "must_use_all_numbers": false,
+      "target": 101
+    },
+    "initial_state": {
+      "numbers": [
+        7,
+        8,
+        7,
+        4,
+        4
+      ]
+    },
+    "max_steps": 1,
+    "metadata": {
+      "generator": "deterministic_v1"
+    },
+    "seed": 202,
+    "task_id": "arith-202"
+  },
+  {
+    "difficulty": 0.55,
+    "env_id": "arithmetic_expr",
+    "goal_spec": {
+      "must_use_all_numbers": false,
+      "target": 18
+    },
+    "initial_state": {
+      "numbers": [
+        1,
+        4,
+        4,
+        2,
+        5
+      ]
+    },
+    "max_steps": 1,
+    "metadata": {
+      "generator": "deterministic_v1"
+    },
+    "seed": 303,
+    "task_id": "arith-303"
+  },
+  {
+    "difficulty": 0.55,
+    "env_id": "arithmetic_expr",
+    "goal_spec": {
+      "must_use_all_numbers": false,
+      "target": 0
+    },
+    "initial_state": {
+      "numbers": [
+        2,
+        7,
+        1,
+        9,
+        2
+      ]
+    },
+    "max_steps": 1,
+    "metadata": {
+      "generator": "deterministic_v1"
+    },
+    "seed": 404,
+    "task_id": "arith-404"
+  }
+]
